@@ -1,0 +1,3 @@
+[submodule "BestHospitals"]
+	path = BestHospitals
+	url = git://github.com/kgracekennedy/datasciencecoursera.git
